@@ -1,0 +1,179 @@
+Quartus II
+Version 9.1 Build 350 03/24/2010 Service Pack 2 SJ Web Edition
+11
+3700
+OFF
+OFF
+OFF
+ON
+ON
+ON
+FV_OFF
+Level2
+0
+0
+VRSM_ON
+VHSM_ON
+0
+-- Start Library Paths --
+-- End Library Paths --
+-- Start VHDL Libraries --
+-- End VHDL Libraries --
+# entity
+a
+# storage
+db|Decoder4Bit.(1).cnf
+db|Decoder4Bit.(1).cnf
+# case_insensitive
+# source_file
+a.bdf
+d0a35bd5b0a75f912995e30774b3b50
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# macro_sequence
+
+# end
+# entity
+b
+# storage
+db|Decoder4Bit.(2).cnf
+db|Decoder4Bit.(2).cnf
+# case_insensitive
+# source_file
+b.bdf
+783cd8393e4522e228b61ad38912f710
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# macro_sequence
+
+# end
+# entity
+e
+# storage
+db|Decoder4Bit.(3).cnf
+db|Decoder4Bit.(3).cnf
+# case_insensitive
+# source_file
+e.bdf
+dbb11af9c86d89aadb208b9e99568e15
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# macro_sequence
+
+# end
+# entity
+f
+# storage
+db|Decoder4Bit.(4).cnf
+db|Decoder4Bit.(4).cnf
+# case_insensitive
+# source_file
+f.bdf
+c8fe341fee1e21a49bba6b62f6a574
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# macro_sequence
+
+# end
+# entity
+g
+# storage
+db|Decoder4Bit.(5).cnf
+db|Decoder4Bit.(5).cnf
+# case_insensitive
+# source_file
+g.bdf
+daea75c02f44ec8ace4a4027e69d714a
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# macro_sequence
+
+# end
+# entity
+ij
+# storage
+db|Decoder4Bit.(6).cnf
+db|Decoder4Bit.(6).cnf
+# case_insensitive
+# source_file
+ij.bdf
+b5d6a527bb19a320657fe03f6bbddfb9
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# macro_sequence
+
+# end
+# entity
+completo
+# storage
+db|Decoder4Bit.(0).cnf
+db|Decoder4Bit.(0).cnf
+# case_insensitive
+# source_file
+completo.bdf
+6c246fe62e81567abeb3e3cd6460a0
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# macro_sequence
+
+# end
+# entity
+c
+# storage
+db|Decoder4Bit.(7).cnf
+db|Decoder4Bit.(7).cnf
+# case_insensitive
+# source_file
+c.bdf
+166b51b55d1e131af948c23185745a7
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# macro_sequence
+
+# end
+# entity
+d
+# storage
+db|Decoder4Bit.(8).cnf
+db|Decoder4Bit.(8).cnf
+# case_insensitive
+# source_file
+d.bdf
+bf86eb894f1f70332ebba2f3467b787
+26
+# internal_option {
+BLOCK_DESIGN_NAMING
+AUTO
+}
+# hierarchies {
+|
+}
+# macro_sequence
+
+# end
+# complete
+

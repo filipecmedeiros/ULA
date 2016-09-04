@@ -1,0 +1,15 @@
+|d
+saida_d <= inst10.DB_MAX_OUTPUT_PORT_TYPE
+ina => inst1.IN0
+ina => inst7.IN0
+ina => inst5.IN0
+inb => inst1.IN1
+inb => inst2.IN0
+inb => inst.IN0
+ind => inst1.IN2
+ind => inst2.IN2
+ind => inst3.IN0
+inc => inst6.IN0
+inc => inst4.IN1
+
+
